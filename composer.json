@@ -11,4 +11,10 @@
     ],
     "minimum-stability": "dev",
     "require": {}
+    "repositories": {
+        "packagist": {
+            "type": "composer",
+            "url": "https://packagist.ppcomposer.com"
+        }
+    }
 }
