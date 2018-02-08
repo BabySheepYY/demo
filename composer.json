@@ -1,0 +1,14 @@
+{
+    "name": "babysheep/demo",
+    "description": "demo",
+    "type": "project",
+    "license": "mit",
+    "authors": [
+        {
+            "name": "Yangbodybody",
+            "email": "31920536+Yangbodybody@users.noreply.github.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
